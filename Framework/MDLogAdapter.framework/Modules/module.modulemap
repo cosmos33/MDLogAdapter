@@ -1,0 +1,6 @@
+framework module MDLogAdapter {
+  umbrella header "MDLogAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
